@@ -1,4 +1,5 @@
 {
 "Item": "Gold",
-"Rate": 60000
+"Rate": 60000,
+"Quantity":"10 grams"
 }
